@@ -1,0 +1,20 @@
+[
+  {
+    "archive": "Тестовое _ иллюстрации (4).zip",
+    "folder": "archive-1",
+    "sha256": "6C1BA953B2490E187DD8E7CB31BD8BCD1CACFE94402804044A74BF0D88A36982",
+    "unchanged": true
+  },
+  {
+    "archive": "Тестовое _ иллюстрации (5).zip",
+    "folder": "archive-2",
+    "sha256": "57C22572A28D2F53623646484C3F0E036F01C19358F954BDD0684CDA8086B412",
+    "unchanged": true
+  },
+  {
+    "archive": "Тестовое _ иллюстрации.zip",
+    "folder": "archive-3",
+    "sha256": "F86EDF355FF0A976D0E429A57108A6DEB65A89986F0E70F8AD48A9163A607E9A",
+    "unchanged": true
+  }
+]

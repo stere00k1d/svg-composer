@@ -1,0 +1,377 @@
+[
+  {
+    "attachment": "5191788d-f054-4ad6-970b-528facec2c18",
+    "file": "L/book-main.svg",
+    "family": "book",
+    "name": "Книга",
+    "role": "main",
+    "detail": "L",
+    "sha256": "68829d512f20f3f8f4007cd0222a67c4caf2e520c798f0d25b341b0bac329e34"
+  },
+  {
+    "attachment": "69c0124f-0354-4483-82ab-3d424aa07f6b",
+    "file": "L/phone-main.svg",
+    "family": "phone",
+    "name": "Телефон",
+    "role": "main",
+    "detail": "L",
+    "sha256": "212505ebd177da83d300e79aeba18f3e51d8f37b63bc0ed097ca62fe44323114"
+  },
+  {
+    "attachment": "92793c23-ce0a-40fd-88a9-c6bbff638271",
+    "file": "L/puzzle-main.svg",
+    "family": "puzzle",
+    "name": "Пазлы",
+    "role": "main",
+    "detail": "L",
+    "sha256": "aa421956a60050153ae59b326b6bf7292047ac9b31f36382108092f436d453c5"
+  },
+  {
+    "attachment": "26c1177c-47e8-4501-95a9-7df66a8956e3",
+    "file": "L/coin-main.svg",
+    "family": "coin",
+    "name": "Монета",
+    "role": "main",
+    "detail": "L",
+    "sha256": "586739a9eda53b8c8244f04a636cf7ef07e27b7242fde5650d1894505113f248"
+  },
+  {
+    "attachment": "93278cc7-9b35-4924-8665-e5e17eee949e",
+    "file": "L/headphones-main.svg",
+    "family": "headphones",
+    "name": "Наушники",
+    "role": "main",
+    "detail": "L",
+    "sha256": "92331c4dd96e99ad1464e62e8ef5d3e00dc3017d66d0f92012da993d2d1cb35a"
+  },
+  {
+    "attachment": "29184d44-7d45-42d0-a3a8-a4e3f3126b57",
+    "file": "L/lamp-main.svg",
+    "family": "lamp",
+    "name": "Лампа",
+    "role": "main",
+    "detail": "L",
+    "sha256": "046415a0303750389e6bdc35c42111d1c86d14ff1f27b1997c78aa1716d677f5"
+  },
+  {
+    "attachment": "77163406-9224-4d8d-91e6-27727efa0c44",
+    "file": "L/flowers-main.svg",
+    "family": "flowers",
+    "name": "Цветы",
+    "role": "main",
+    "detail": "L",
+    "sha256": "61b53b61ed3100249ba2c89f314eadaa8be6f31549ed871905779258a1a3e739"
+  },
+  {
+    "attachment": "1494148e-3177-4af0-a59a-03bbc4ec2dd6",
+    "file": "L/wallet-main.svg",
+    "family": "wallet",
+    "name": "Кошелек",
+    "role": "main",
+    "detail": "L",
+    "sha256": "2ce2224df5563d73ef064d1b9e71438ecf464aac57b23b1424e7ed1e08e99bcd"
+  },
+  {
+    "attachment": "53d9f372-8d54-4c74-955f-8d3c134279dd",
+    "file": "L/folder-main.svg",
+    "family": "folder",
+    "name": "Папка",
+    "role": "main",
+    "detail": "L",
+    "sha256": "e1037dd7a46055af35529ee6dfebf3cd19f1e8e20af62fee562d35acc5f01251"
+  },
+  {
+    "attachment": "6f1a4cc5-ca89-4b03-9a81-99242ca3a56f",
+    "sha256": "e1037dd7a46055af35529ee6dfebf3cd19f1e8e20af62fee562d35acc5f01251",
+    "duplicateOf": "L/folder-main.svg"
+  },
+  {
+    "attachment": "5c985132-3c1d-4573-8151-cfec8deef57a",
+    "file": "L/book-background.svg",
+    "family": "book",
+    "name": "Книга",
+    "role": "background",
+    "detail": "L",
+    "sha256": "40dbb5f7ba177336a61c6ad30830ff1213001f5bcc88db97a964d7ef19691ca8"
+  },
+  {
+    "attachment": "4485dcaa-4663-407f-a222-cb0544de70bb",
+    "file": "L/phone-background.svg",
+    "family": "phone",
+    "name": "Телефон",
+    "role": "background",
+    "detail": "L",
+    "sha256": "9434f37dce2d217f0fecb8ad54cab323ba4c193f3b2ca3251167f9f5db49b728"
+  },
+  {
+    "attachment": "c03fd17e-de23-43ec-b7e8-e4791ee7c6e9",
+    "file": "L/puzzle-background.svg",
+    "family": "puzzle",
+    "name": "Пазлы",
+    "role": "background",
+    "detail": "L",
+    "sha256": "822607ace9afa60fb3ba0c5f30fb3ac141d5ad2858ffbdd92629f6fc7982cf78"
+  },
+  {
+    "attachment": "e77f7e93-fd51-4b70-b688-2b32af48652c",
+    "file": "L/coin-background.svg",
+    "family": "coin",
+    "name": "Монета",
+    "role": "background",
+    "detail": "L",
+    "sha256": "81a2baf3f608bda1cfe57d73d71382e3cfb2d541f5b7710e91f30e7d2c54c4ef"
+  },
+  {
+    "attachment": "e3db4280-600a-45d7-96e3-3180cc7db9e3",
+    "file": "L/headphones-background.svg",
+    "family": "headphones",
+    "name": "Наушники",
+    "role": "background",
+    "detail": "L",
+    "sha256": "b7d7b514669180eb6bdd09450b6763328b24bbfe400a2a42f84c7b2e9503be94"
+  },
+  {
+    "attachment": "de2e99bb-f398-40af-9612-f52412142575",
+    "file": "L/lamp-background.svg",
+    "family": "lamp",
+    "name": "Лампа",
+    "role": "background",
+    "detail": "L",
+    "sha256": "de5957aca823b48a4d5648323b5ecd2ef7a4bdec99994d47f62e113d9837c7be"
+  },
+  {
+    "attachment": "230bb202-753c-4c56-a77e-82dbddadab5a",
+    "file": "L/flowers-background.svg",
+    "family": "flowers",
+    "name": "Цветы",
+    "role": "background",
+    "detail": "L",
+    "sha256": "13628cfeb28e73334c68ded69e348b89ebc81ea4b59cacb8a5f3408279d783a4"
+  },
+  {
+    "attachment": "ddd13b36-095d-46f4-8c73-f5afe0bbee65",
+    "sha256": "13628cfeb28e73334c68ded69e348b89ebc81ea4b59cacb8a5f3408279d783a4",
+    "duplicateOf": "L/flowers-background.svg"
+  },
+  {
+    "attachment": "f12310a0-48db-44c7-863e-e6b23a8259af",
+    "file": "L/folder-background.svg",
+    "family": "folder",
+    "name": "Папка",
+    "role": "background",
+    "detail": "L",
+    "sha256": "96056b71114aeb435e1221722afe0e0adcbd2a1a76d9aee776a4e42d30a4fb0c"
+  },
+  {
+    "attachment": "22427559-c05a-4690-b542-526bb3fb34e8",
+    "file": "L/pen-background.svg",
+    "family": "pen",
+    "name": "Ручка",
+    "role": "background",
+    "detail": "L",
+    "sha256": "34cae2dc78723dc436e67a541aed23e28fa49135a1ec5b695dda2a7e9d95e84a"
+  },
+  {
+    "attachment": "dbfff3ad-980d-46b2-a3bf-ce04e01a61dd",
+    "file": "L/pen-main.svg",
+    "family": "pen",
+    "name": "Ручка",
+    "role": "main",
+    "detail": "L",
+    "sha256": "984f57e42399caa21c5e7b5e55cb9a6c52bc3b50260bc93fc15c418ce244685d"
+  },
+  {
+    "attachment": "b9a24759-8e6a-4f2a-a463-798aa5d6701c",
+    "file": "L/wallet-background.svg",
+    "family": "wallet",
+    "name": "Кошелек",
+    "role": "background",
+    "detail": "L",
+    "sha256": "fc9c1e0615a5fff73e9033b19e71238d0a6b92f3c80aacbcde2eab022e6535a3"
+  },
+  {
+    "attachment": "72c1d529-af31-4bb4-8214-8aaaed09538c",
+    "file": "S/book-main.svg",
+    "family": "book",
+    "name": "Книга",
+    "role": "main",
+    "detail": "S",
+    "sha256": "861fe0817abff8552212eb3817d2e03363c279787937493af6a861cd4ce544da"
+  },
+  {
+    "attachment": "cdf161e7-3e72-4f63-a047-2c6f650ad4d7",
+    "file": "S/phone-main.svg",
+    "family": "phone",
+    "name": "Телефон",
+    "role": "main",
+    "detail": "S",
+    "sha256": "a52c5ab92dd2387468257950e91770de7749d5cc43d393d2a783015d93df62e2"
+  },
+  {
+    "attachment": "56153235-10d3-4ce7-a426-857f115063a0",
+    "file": "S/puzzle-main.svg",
+    "family": "puzzle",
+    "name": "Пазлы",
+    "role": "main",
+    "detail": "S",
+    "sha256": "b12beb5951f6dfde0e864cb61769a3904cb9f47fb8e3cf81a10d9d76c2ef0706"
+  },
+  {
+    "attachment": "4536235a-adef-4d64-8351-e2cbff3aca4d",
+    "file": "S/coin-main.svg",
+    "family": "coin",
+    "name": "Монета",
+    "role": "main",
+    "detail": "S",
+    "sha256": "30304fba87a87548cbd09061c19764c45caf051094cea17194e9ae25de532c13"
+  },
+  {
+    "attachment": "83a6a354-3d5f-4e27-99d0-3e817079d4a5",
+    "file": "S/headphones-main.svg",
+    "family": "headphones",
+    "name": "Наушники",
+    "role": "main",
+    "detail": "S",
+    "sha256": "2ea8818acf331d794f702e57bcd61d9202cc06a507bf45b466af260fe5b479b5"
+  },
+  {
+    "attachment": "fc949d5b-f70e-4199-9c5f-a4c3c22038fa",
+    "sha256": "2ea8818acf331d794f702e57bcd61d9202cc06a507bf45b466af260fe5b479b5",
+    "duplicateOf": "S/headphones-main.svg"
+  },
+  {
+    "attachment": "c74647d8-528e-4dc0-9df0-4fa75e00f1fd",
+    "file": "S/flowers-main.svg",
+    "family": "flowers",
+    "name": "Цветы",
+    "role": "main",
+    "detail": "S",
+    "sha256": "8dc8a0050327c8102ebbf0e46c0b869329ba4fd5815a695cf6474e5f1d389f71"
+  },
+  {
+    "attachment": "c38725a3-3b57-4bcf-8d2b-3143d1a5b996",
+    "file": "S/lamp-main.svg",
+    "family": "lamp",
+    "name": "Лампа",
+    "role": "main",
+    "detail": "S",
+    "sha256": "917f86b7df1e2ac24c8546bd8c444d94f9281a368d8d6bf8f01cfea0794eafd2"
+  },
+  {
+    "attachment": "1d294266-e1e9-4df8-8106-851b4eddc42f",
+    "file": "S/wallet-main.svg",
+    "family": "wallet",
+    "name": "Кошелек",
+    "role": "main",
+    "detail": "S",
+    "sha256": "7d4286ccbc485f017848a83fc4ee6bf6fb0393080912eddd7bb41734fa4b1e46"
+  },
+  {
+    "attachment": "432007dc-e7e9-42d1-acfd-d9e5f579a3cc",
+    "file": "S/folder-main.svg",
+    "family": "folder",
+    "name": "Папка",
+    "role": "main",
+    "detail": "S",
+    "sha256": "2cc2d67c7cb5949b98b35f87f02f9267b10666752d4e338b1225382cf1b678c4"
+  },
+  {
+    "attachment": "0736e9da-530a-47a0-83ec-230b08b7c43f",
+    "file": "S/pen-main.svg",
+    "family": "pen",
+    "name": "Ручка",
+    "role": "main",
+    "detail": "S",
+    "sha256": "6ec363fbc5e722765ddd51d52a1f35f2963bc2a8effe29e6e28d653ef5b8bbe2"
+  },
+  {
+    "attachment": "c278f08f-522f-4811-9478-da1d049fdad6",
+    "file": "S/book-background.svg",
+    "family": "book",
+    "name": "Книга",
+    "role": "background",
+    "detail": "S",
+    "sha256": "e67afd9b7967394b81ebb63ff6a363b1015e57f3e204dee3c141e59ccbdf19e6"
+  },
+  {
+    "attachment": "791c5a46-794f-4cb9-8c14-ee0167364389",
+    "file": "S/phone-background.svg",
+    "family": "phone",
+    "name": "Телефон",
+    "role": "background",
+    "detail": "S",
+    "sha256": "8b643c80de22b9342ec51b87ff1b7453f8e1825f5890c27f02b32d46b7d3e86e"
+  },
+  {
+    "attachment": "d7f09b55-7cff-47bf-a50d-4a412c0ddb05",
+    "file": "S/puzzle-background.svg",
+    "family": "puzzle",
+    "name": "Пазлы",
+    "role": "background",
+    "detail": "S",
+    "sha256": "4933d8f7c5240d5bc438c93710ee0273f15fb38b3d015162f0da7823222a92ec"
+  },
+  {
+    "attachment": "1bbe1667-fb8b-4704-b3c8-6309b7e92953",
+    "file": "S/coin-background.svg",
+    "family": "coin",
+    "name": "Монета",
+    "role": "background",
+    "detail": "S",
+    "sha256": "9bb11014607170341c110b3739d941ca07341991adb45d17c8aa643f4579c003"
+  },
+  {
+    "attachment": "ca83f84f-ecee-47af-8b7b-4da8498491bc",
+    "file": "S/headphones-background.svg",
+    "family": "headphones",
+    "name": "Наушники",
+    "role": "background",
+    "detail": "S",
+    "sha256": "24c42387a6c5a50e2e1f930ba0d9d5be0881c0bc4f66eed0d7e9cd50827892dc"
+  },
+  {
+    "attachment": "af1ed113-c6c0-40be-b015-828c37c9092d",
+    "file": "S/lamp-background.svg",
+    "family": "lamp",
+    "name": "Лампа",
+    "role": "background",
+    "detail": "S",
+    "sha256": "17c10fcb447aba0c4bb8994073752f84b3c4e763a5a29598808b3d57b885dfe8"
+  },
+  {
+    "attachment": "e0f1c444-1e8d-4a1e-bf20-96902215722f",
+    "file": "S/flowers-background.svg",
+    "family": "flowers",
+    "name": "Цветы",
+    "role": "background",
+    "detail": "S",
+    "sha256": "a94baa3a6026397fd6867dcabcf3a229c670d71a2f4be718c8d688778d7ffbf6"
+  },
+  {
+    "attachment": "67d92ef5-a5c8-4fe0-a9be-9f5c7e8ace2f",
+    "file": "S/wallet-background.svg",
+    "family": "wallet",
+    "name": "Кошелек",
+    "role": "background",
+    "detail": "S",
+    "sha256": "67e7b2d7ed6908fac70d9b6fb9b7e066fd93eb421e0cde1a9811676d103e62c6"
+  },
+  {
+    "attachment": "bd29a02c-e571-45d9-a46b-74b553512321",
+    "file": "S/folder-background.svg",
+    "family": "folder",
+    "name": "Папка",
+    "role": "background",
+    "detail": "S",
+    "sha256": "ecd331e4023676b93e67069586fff55e2e0a90ec046ad27489c05caabac5befd"
+  },
+  {
+    "attachment": "5a956849-ef30-444b-8171-03f930353994",
+    "file": "S/pen-background.svg",
+    "family": "pen",
+    "name": "Ручка",
+    "role": "background",
+    "detail": "S",
+    "sha256": "45495afdce7f82c926b3b8ab6688244202549cc969391ff992c328288b1bf0e1"
+  }
+]

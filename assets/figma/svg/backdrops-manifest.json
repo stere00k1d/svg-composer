@@ -1,0 +1,44 @@
+[
+  {
+    "file": "backdrops/lavender.svg",
+    "detail": "L",
+    "role": "backdrop",
+    "provenance": "SVG text supplied in chat",
+    "sha256": "d03fe3df35a92aee70f9e94053047eb0491a0a6f14bcdfa6413d04f4a2ad49df"
+  },
+  {
+    "file": "backdrops/peach.svg",
+    "detail": "L",
+    "role": "backdrop",
+    "provenance": "SVG text supplied in chat",
+    "sha256": "807879f58defc2e1035be873a4c6d7a991044eb090972bbfc650bbdbc051a45b"
+  },
+  {
+    "file": "backdrops/turquoise.svg",
+    "detail": "L",
+    "role": "backdrop",
+    "provenance": "SVG text supplied in chat",
+    "sha256": "309452e0ee81cf5063c4938ba80e49cf4af29c75088e4e9c738ca42f8b08a1d1"
+  },
+  {
+    "file": "S-backdrops/lavender.svg",
+    "detail": "S",
+    "role": "backdrop",
+    "provenance": "SVG text supplied in chat",
+    "sha256": "7653d5af47e23cae250bbbf29153863e616f81221e7a840b8fc304cc92d05117"
+  },
+  {
+    "file": "S-backdrops/peach.svg",
+    "detail": "S",
+    "role": "backdrop",
+    "provenance": "SVG text supplied in chat",
+    "sha256": "58d6c230245fca6bb7384f647724f2fc23873eb4d60febd53b29d7c3e9a9cdfa"
+  },
+  {
+    "file": "S-backdrops/turquoise.svg",
+    "detail": "S",
+    "role": "backdrop",
+    "provenance": "SVG text supplied in chat",
+    "sha256": "8cf96b5f7d125c6647fe6190dcf17d4283696ba76cc8284ded66379a694bc864"
+  }
+]
