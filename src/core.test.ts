@@ -8,6 +8,11 @@ import { PALETTES, parsePalette } from './palettes';
 import { parseProject } from './project';
 const library = originalLibrary();
 const xml = (s: string) => new DOMParser().parseFromString(s, 'image/svg+xml');
+const topology = (el: Element): unknown => [el.localName, ...Array.from(el.children).map(topology)];
+const transforms = (el: Element) =>
+  [el, ...el.querySelectorAll('[transform]')]
+    .filter((node) => node.hasAttribute('transform'))
+    .map((node) => node.getAttribute('transform'));
 const geometry = (s: string) =>
   [...xml(s).querySelectorAll('path,rect,circle,ellipse,line,polyline,polygon')].map((el) => ({
     tag: el.localName,
@@ -61,6 +66,9 @@ describe('исходная библиотека', () => {
       const svg = xml(exportSvg(p));
       expect(svg.querySelector('parsererror,image')).toBeNull();
       expect(svg.querySelector(`[data-source-id="${a.id}"]`)).not.toBeNull();
+      const embedded = svg.querySelector(`[data-source-id="${a.id}"] > g > svg`)!;
+      expect(topology(embedded)).toEqual(topology(xml(source).documentElement));
+      expect(transforms(embedded)).toEqual(transforms(xml(source).documentElement));
     },
   );
   it('перекрашивает только в разрешённые цвета выбранной схемы', () => {

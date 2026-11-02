@@ -7,7 +7,7 @@
   "layoutWidth": 1120,
   "layoutHeight": 550,
   "safe": 40,
-  "scale": 0.2070416297608503,
+  "scale": 0.3262519862734723,
   "detail": "L",
   "assets": [
     {
@@ -721,39 +721,39 @@
   ],
   "items": [
     {
-      "assetId": "original-L-book-main",
-      "x": 226.66666666666666,
-      "y": 177.5,
-      "rotation": 0,
-      "id": "9e9ae6cd-cb7d-4a8c-a5b9-99089677f2da"
-    },
-    {
-      "assetId": "original-L-headphones-main",
-      "x": 600,
-      "y": 177.5,
-      "rotation": 0,
-      "id": "995dfd93-d497-4324-b635-f21335e1b1aa"
-    },
-    {
       "assetId": "original-L-lamp-main",
-      "x": 973.3333333333333,
-      "y": 177.5,
+      "x": 828.4449033085481,
+      "y": 240.66924625137514,
       "rotation": 0,
-      "id": "0261b8cd-787a-4aca-8e7c-3c0751cc0318"
+      "id": "0ba18754-4e33-42ad-ae86-c37916fd6665"
+    },
+    {
+      "assetId": "original-L-book-main",
+      "x": 460.4718130304241,
+      "y": 352.231112957589,
+      "rotation": -2,
+      "id": "374f2e9a-0a2c-4ac7-a2f7-bab3a1e86241"
+    },
+    {
+      "assetId": "original-L-pen-main",
+      "x": 767.1160549288606,
+      "y": 521.1676539698557,
+      "rotation": -4,
+      "id": "bc4efabe-f9d6-44dd-8225-0a268b390150"
     },
     {
       "assetId": "original-L-phone-main",
-      "x": 413.33333333333337,
-      "y": 452.5,
+      "x": 347.2493237140783,
+      "y": 234.29428243959148,
       "rotation": 0,
-      "id": "998b2988-602a-44b1-9c43-25237f57b265"
+      "id": "95dd6e66-38cd-4f0b-89a1-b22f71c18b10"
     },
     {
       "assetId": "original-L-puzzle-main",
-      "x": 786.6666666666667,
-      "y": 452.5,
+      "x": 511.48844621431374,
+      "y": 150.92592671893783,
       "rotation": 0,
-      "id": "53125d09-08c9-40f1-843c-448535a9d420"
+      "id": "bfa98158-8b2d-4ea3-a14a-45eb1046cfbd"
     }
   ],
   "backdropId": "original-backdrop-peach",

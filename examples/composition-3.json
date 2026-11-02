@@ -7,7 +7,7 @@
   "layoutWidth": 550,
   "layoutHeight": 1120,
   "safe": 40,
-  "scale": 0.3844532488114105,
+  "scale": 0.5808668960922376,
   "detail": "L",
   "assets": [
     {
@@ -721,25 +721,25 @@
   ],
   "items": [
     {
-      "assetId": "original-L-coin-main",
-      "x": 447.29999999999995,
-      "y": 226.66666666666666,
+      "assetId": "original-L-phone-background",
+      "x": 287.9754580927567,
+      "y": 643.387726654091,
       "rotation": 0,
-      "id": "d9ff5aee-3ba3-4304-b7a6-96b917814d5a"
-    },
-    {
-      "assetId": "original-L-flowers-main",
-      "x": 447.29999999999995,
-      "y": 600,
-      "rotation": 0,
-      "id": "ddf788df-16c4-46c7-add8-85ebcb597bc7"
+      "id": "1a1893f9-1be5-48f5-8dd9-e22742c2e11a"
     },
     {
       "assetId": "original-L-wallet-main",
-      "x": 447.29999999999995,
-      "y": 973.3333333333333,
+      "x": 390.236494282899,
+      "y": 831.5607193769636,
       "rotation": 0,
-      "id": "bb11e897-f440-4b37-a63d-0c359e0ee8f3"
+      "id": "2036de62-e5f9-4b07-ba22-b14f4b91416b"
+    },
+    {
+      "assetId": "original-L-coin-main",
+      "x": 449.78436863096124,
+      "y": 995.9006046624994,
+      "rotation": 0,
+      "id": "146b4aee-6acc-4e92-ab6c-54aebaa76f61"
     }
   ],
   "backdropId": "original-backdrop-turquoise",

@@ -1,6 +1,7 @@
 assets/
 examples/
 dist/
+.baseline-dist/
 node_modules/
 pnpm-lock.yaml
 test-results/

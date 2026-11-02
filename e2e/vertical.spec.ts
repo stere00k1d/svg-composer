@@ -12,7 +12,7 @@ test('импорт → добавление → перемещение → ве�
   await expect(item).toHaveCount(1);
   const before = await item.getAttribute('transform');
   await item.scrollIntoViewIfNeeded();
-  const box = (await item.boundingBox())!;
+  const box = (await item.locator(':scope > rect').first().boundingBox())!;
   await page.mouse.move(box.x + box.width / 2, box.y + box.height / 2);
   await page.mouse.down();
   await page.mouse.move(box.x + box.width / 2 + 50, box.y + box.height / 2 + 30, { steps: 8 });

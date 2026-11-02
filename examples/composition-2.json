@@ -7,7 +7,7 @@
   "layoutWidth": 920,
   "layoutHeight": 920,
   "safe": 40,
-  "scale": 0.3128825000773027,
+  "scale": 0.5395359004065723,
   "detail": "L",
   "assets": [
     {
@@ -721,25 +721,25 @@
   ],
   "items": [
     {
-      "assetId": "original-L-headphones-background",
-      "x": 270,
-      "y": 258.5,
-      "rotation": -8,
-      "id": "872479ca-9cdc-4057-b0c6-f373d895e28b"
+      "assetId": "original-L-flowers-background",
+      "x": 949.0674859061775,
+      "y": 285.2930180907563,
+      "rotation": -3,
+      "id": "defeaaeb-7664-418a-9a60-d471b7de54e7"
     },
     {
-      "assetId": "original-L-lamp-main",
-      "x": 730,
-      "y": 281.5,
-      "rotation": 8,
-      "id": "d316dd5b-8e76-4f05-b105-b55caaefd93f"
+      "assetId": "original-L-headphones-main",
+      "x": 677.2187102418704,
+      "y": 560.2653588254634,
+      "rotation": -5,
+      "id": "535df20d-3002-4905-b318-589e674f54c9"
     },
     {
       "assetId": "original-L-phone-main",
-      "x": 500,
-      "y": 718.5,
-      "rotation": -8,
-      "id": "3d6ae223-b1f7-4a58-b08d-41d32bf53374"
+      "x": 292.6493608050506,
+      "y": 375.7610307833983,
+      "rotation": 5,
+      "id": "120022af-84b4-4103-a0df-6a4b720124fd"
     }
   ],
   "backdropId": "original-backdrop-lavender",

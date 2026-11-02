@@ -51,7 +51,7 @@ export const FORMATS: Record<Format, { width: number; height: number; label: str
 };
 export const TEMPLATES: Record<Template, string> = {
   balanced: 'Собранно',
-  offset: 'Со смещением',
+  offset: 'Диагональ',
   headline: 'Под заголовок',
 };
 export const uid = () => crypto.randomUUID();

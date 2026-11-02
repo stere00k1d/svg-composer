@@ -1,0 +1,3 @@
+assets/**/*.svg -text
+assets/**/*.png -text
+examples/*.svg -text

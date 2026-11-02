@@ -79,12 +79,13 @@ test('текстовый сценарий выбирает существующ�
   page,
 }) => {
   await page.goto('/');
-  await page.getByText('Собрать по текстовому описанию', { exact: false }).click();
+  await expect(page.getByLabel('Описание композиции', { exact: true })).toBeVisible();
   await page
     .getByLabel('Описание композиции', { exact: true })
     .fill('телефон и дракон под заголовок');
   await page.getByRole('button', { name: 'Разобрать и собрать', exact: true }).click();
   await expect(page.getByTestId('canvas-item')).toHaveCount(1);
+  await page.getByText('Как подобраны предметы', { exact: true }).click();
   await expect(page.getByRole('log')).toContainText('Не распознано и не добавлено: дракон');
   expect((await project(page)).items[0].assetId).toBe('original-L-phone-main');
   await page.getByLabel('Описание композиции', { exact: true }).fill('дракон');
@@ -136,6 +137,14 @@ test('три композиции из библиотеки и мобильны�
     const svg = await download(page, /^Экспорт SVG/);
     await fs.writeFile(`examples/composition-${n + 1}.svg`, svg);
     await fs.writeFile(`examples/composition-${n + 1}.json`, JSON.stringify(p, null, 2));
+    await expect
+      .poll(async () =>
+        page.getByTestId('canvas').evaluate((el) => {
+          const r = el.getBoundingClientRect();
+          return r.width / r.height;
+        }),
+      )
+      .toBeCloseTo(p.width / p.height, 2);
     await page.screenshot({ path: `test-results/demo-${n + 1}.png`, fullPage: true });
   }
   await page.setViewportSize({ width: 390, height: 844 });
